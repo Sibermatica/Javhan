@@ -9,7 +9,7 @@
 This project is a open-source programming language based on java and other POO programming languages, this project also contains long terms support (LTS) and periodic updates.
 
 ## Developers 👷‍♂️
-- [CiroDOS]("https://github.com/CiroDOS/" "Principal developer") - Principal developer
+- [CiroDOS](https://github.com/CiroDOS/ "Principal developer") - Principal developer
 
 ## Objectives 🏁
 I want to generalize this programming language for be able to run in various devices, PC, Phone, Tablet and others.
