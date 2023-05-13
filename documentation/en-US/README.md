@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[English](https://github.com/CiroDOS/Javhan/blob/master/documentation/en-US/README.md) | [Spanish](master/documentation/es-ES/README.md)
+[English](https://github.com/CiroDOS/Javhan/blob/master/documentation/en-US/README.md) | [Spanish](https://github.com/CiroDOS/Javhan/blob/master/documentation/es-ES/README.md)
 
 </div>
 
