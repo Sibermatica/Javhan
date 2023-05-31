@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://github.com/CiroDOS/Javhan/blob/master/slogan.png?raw=true" height="128px" width="128px" alt="Logo" />
+<img src="https://github.com/Sibermatica/Javhan/blob/master/slogan.png?raw=true" height="128px" width="128px" alt="Logo" />
 </div>
     
 # Javhan
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[English](https://github.com/CiroDOS/Javhan/blob/master/documentation/en-US/README.md) | [Spanish](https://github.com/CiroDOS/Javhan/blob/master/documentation/es-ES/README.md)
+[English](https://github.com/Sibermatica/Javhan/blob/master/documentation/en-US/README.md) | [Spanish](https://github.com/Sibermatica/Javhan/blob/master/documentation/es-ES/README.md)
 
 </div>
 
@@ -20,7 +20,7 @@
 This project is a open-source programming language based on java and other POO programming languages, this project also contains long terms support (LTS) and periodic updates.
 
 ## Developers 👷‍♂️
-- [CiroDOS](https://github.com/CiroDOS/ "Principal developer") - Principal developer
+- [Sibermatica](https://github.com/Sibermatica/ "Principal developer") - Principal developer
 
 ## Objectives 🏁
 I want to generalize this programming language for be able to run in various devices, PC, Phone, Tablet and others.

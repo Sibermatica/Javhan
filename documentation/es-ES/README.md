@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://github.com/CiroDOS/Javhan/blob/master/slogan.png?raw=true" height="128px" width="128px" alt="Logo" />
+<img src="https://github.com/Sibermatica/Javhan/blob/master/slogan.png?raw=true" height="128px" width="128px" alt="Logo" />
 </div>
     
 # Javhan
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[Inglés](https://github.com/CiroDOS/Javhan/blob/master/documentation/en-US/README.md) | [Español](https://github.com/CiroDOS/Javhan/blob/master/documentation/es-ES/README.md)
+[Inglés](https://github.com/Sibermatica/Javhan/blob/master/documentation/en-US/README.md) | [Español](https://github.com/Sibermatica/Javhan/blob/master/documentation/es-ES/README.md)
 
 </div>
 
@@ -21,7 +21,7 @@
 Este proyecto es un lenguaje de programación código abierto basado en java y otros lenguajes de programación orientado a objetos, tambien tiene soporte técnico alargado (LTS).
 
 ## Desarrolladores 👷‍♂️
-- [CiroDOS](https://github.com/CiroDOS/ "Desarrollador principal") - Desarrollador principal
+- [Sibermatica](https://github.com/Sibermatica/ "Desarrollador principal") - Desarrollador principal
 
 # Descargas
 Puedes obtener la última actualización de [la sección de versiones](/releases/latest)
