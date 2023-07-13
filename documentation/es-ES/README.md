@@ -21,7 +21,7 @@
 Este proyecto es un lenguaje de programación código abierto basado en java y otros lenguajes de programación orientado a objetos, tambien tiene soporte técnico alargado (LTS).
 
 ## Desarrolladores 👷‍♂️
-- [Sibermatica](https://github.com/Sibermatica/ "Desarrollador principal") - Desarrollador principal
+- [CiroDOS](https://github.com/CiroDOS/ "Desarrollador principal") - Desarrollador principal
 
 # Descargas
 Puedes obtener la última actualización de [la sección de versiones](/releases/latest)
@@ -46,4 +46,4 @@ Javhan contiene otro projecto llamado "Jash". Este proyecto ESTÁ relacionado co
 Este proyecto es una libreria web para trabajar con javhan, similar a un applet. Es usado para crear instancias de este lenguaje de programación como aplicaciones etc.
 
 ## Página web oficial
-[Ir a la pagina web oficial](https://javhan.github.io/)
+[Ir a la pagina web oficial](https://sibermatica.github.io/jash)

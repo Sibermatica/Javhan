@@ -20,7 +20,7 @@
 This project is a open-source programming language based on java and other POO programming languages, this project also contains long terms support (LTS) and periodic updates.
 
 ## Developers 👷‍♂️
-- [Sibermatica](https://github.com/Sibermatica/ "Principal developer") - Principal developer
+- [CiroDOS](https://github.com/CiroDOS/ "Principal developer") - Principal developer
 
 ## Objectives 🏁
 I want to generalize this programming language for be able to run in various devices, PC, Phone, Tablet and others.
@@ -42,4 +42,4 @@ Javhan contains other project called "Jash". This project IS related with Javhan
 It's a web library for working with javhan, similar to a applet. It is used to create instances of this programming language such as applications, etc.
 
 ## Official Web page
-[Go to the Official web page](https://javhan.github.io/)
+[Go to the Official web page](https://sibermatica.github.io/jash)
